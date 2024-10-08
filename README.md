@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devwanjohi
-- 👀 I’m a junior front-end developer
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on various projects relating to front-end developement and fullstack which is my long run goal.
+- 👀 I’m a Fullstack Web developer
+- 💞️ I’m looking to collaborate on various projects relating to fullstack web development.
 - 📫 You can reach me out via my linkin account linkedin.com/in/pauledwardmaina
 
 <!---
